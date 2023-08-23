@@ -1,0 +1,6 @@
+imu_topic: /imu0
+imu_excite_threshold: 0.5
+gravity_mag: 9.80766 #9.8
+
+
+
